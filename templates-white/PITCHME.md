@@ -1,6 +1,6 @@
-# tmux: Getting Started
+# White
 
-### Chad Homan
+### A GitPitch Presentation Template
 
 ---
 
